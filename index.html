@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Book Library</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>📚 My Book Library</h1>
+
+<div class="form">
+<input id="title" placeholder="Book Title">
+<input id="category" placeholder="Category">
+<button onclick="addBook()">Add Book</button>
+</div>
+
+<div class="controls">
+<input id="search" placeholder="Search..." onkeyup="displayBooks()">
+
+<select id="filter" onchange="displayBooks()">
+<option value="all">All Categories</option>
+</select>
+</div>
+
+<h2>📖 Books</h2>
+<div id="bookList"></div>
+
+<h2>📦 Borrow History</h2>
+<div id="history"></div>
+
+<script src="script.js"></script>
+</body>
+</html>
