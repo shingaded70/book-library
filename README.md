@@ -57,7 +57,9 @@ This project was created to demonstrate:
 
 ## 📸 Screenshots
 
-(Add screenshots here if needed)
+![App Screenshot](IMG_20260616_223311.jpg.png)
+
+![App Screenshot](IMG_20260616_223300.png)
 
 ---
 
