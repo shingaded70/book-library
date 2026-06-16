@@ -59,7 +59,7 @@ This project was created to demonstrate:
 
 ![App Screenshot](https://github.com/shingaded70/book-library/blob/main/IMG_20260616_223311.jpg)
 
-![App Screenshot](IMG_20260616_223300.png)
+![App Screenshot](https://github.com/shingaded70/book-library/blob/main/IMG_20260616_223300.jpg)
 
 ---
 
@@ -76,3 +76,4 @@ Feel free to connect for suggestions or improvements.
 ---
 
 ⭐ If you like this project, consider giving it a star!
+ 
