@@ -57,7 +57,7 @@ This project was created to demonstrate:
 
 ## 📸 Screenshots
 
-![App Screenshot](IMG_20260616_223311.jpg.png)
+![App Screenshot](https://github.com/shingaded70/book-library/blob/main/IMG_20260616_223311.png)
 
 ![App Screenshot](IMG_20260616_223300.png)
 
