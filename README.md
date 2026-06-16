@@ -1,1 +1,77 @@
-# book-library
+
+# 📚 Book Library Web App
+
+A simple and interactive **Book Library Web Application** built using **HTML5, CSS3, and JavaScript**.
+This app allows users to manage their personal book collection efficiently.
+
+---
+
+## 🚀 Live Demo
+
+🌐 https://yourusername.github.io/book-library/
+
+---
+
+## 📌 Features
+
+* ➕ Add new books
+* 🔍 Search books by title
+* 🏷️ Filter books by category
+* 🔄 Borrow / Return books
+* 📦 Borrow history tracking
+* 💾 Data stored using Local Storage (no database needed)
+* 📱 Responsive design
+
+---
+
+## 🛠️ Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript
+
+---
+
+## 📂 Project Structure
+
+```
+book-library/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
+
+---
+
+## 🎯 Purpose
+
+This project was created to demonstrate:
+
+* DOM manipulation using JavaScript
+* Handling user input
+* Data storage using Local Storage
+* Building interactive web applications
+
+---
+
+## 📸 Screenshots
+
+(Add screenshots here if needed)
+
+---
+
+## 🙌 Acknowledgement
+
+This project was developed as part of an internship assignment provided by **HexSoftwares**.
+
+---
+
+## 📬 Contact
+
+Feel free to connect for suggestions or improvements.
+
+---
+
+⭐ If you like this project, consider giving it a star!
