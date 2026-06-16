@@ -8,8 +8,7 @@ This app allows users to manage their personal book collection efficiently.
 
 ## 🚀 Live Demo
 
-🌐 https://yourusername.github.io/book-library/
-
+🌐 https://shingaded70.github.io/book-library/
 ---
 
 ## 📌 Features
